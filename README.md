@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Tomasz 👋
 
-<!--
-**kvmnxsky/kvmnxsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Analyst | Manual & E2E Testing | Expanding into Test Automation
 
-Here are some ideas to get you started:
+🧪 I have 3 years of QA experience testing web applications, with a focus on end-to-end user journeys, functional, regression, smoke, and exploratory testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently expanding my skills into test automation with **Playwright and TypeScript**, building hands-on projects that apply maintainable automation practices such as Page Objects, reusable test data, cross-browser testing, and CI.
+
+## 🛠️ Skills & Tools
+
+**Testing**
+- Manual Web Application Testing
+- Functional, Regression, Smoke & Exploratory Testing
+- End-to-End Testing
+- Test Case Design
+- Bug Reporting
+- Risk-Based Testing
+
+**Automation**
+- Playwright
+- TypeScript
+- Page Object Model
+- Cross-Browser Testing
+- GitHub Actions / CI
+
+**Tools**
+- Jira
+- Confluence
+- TestLink
+- Git & GitHub
