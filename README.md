@@ -28,3 +28,15 @@
 - Confluence
 - TestLink
 - Git & GitHub
+
+## 📚 Currently Learning
+
+- Advanced Playwright testing patterns
+- TypeScript for test automation
+- API testing
+- CI/CD practices for automated testing
+- Building maintainable test automation frameworks
+
+## 📫 Connect With Me
+
+- LinkedIn: [Tomasz Kaminski](https://www.linkedin.com/in/112b77248)
